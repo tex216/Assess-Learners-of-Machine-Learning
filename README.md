@@ -32,4 +32,5 @@ This file is considered the entry point to this project. All the experimental pl
 ## How To Run:    
                                                                            
 PYTHONPATH=../:. python testproject.py Data/Istanbul.csv 
+
 Details in README_Report.pdf
